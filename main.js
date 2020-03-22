@@ -9,6 +9,6 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
   .then(data => {
     data["Portugal"].forEach(({ date, confirmed, recovered, deaths }) =>
       //console.log(`${date} casos ativos: ${confirmed - recovered - deaths}`)
-      console.log(`${date} casos ativos: ${confirmed} - ${recovered} - ${deaths}`)
+      console.log(`${date} casos ativos: confirmados/${confirmed} - recuperados/${recovered} - mortes/${deaths}`)
     )
   });
