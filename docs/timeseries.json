@@ -34550,109 +34550,109 @@
       "date": "2020-4-14",
       "confirmed": 130365,
       "deaths": 15731,
-      "recovered": 29098
+      "recovered": 28805
     },
     {
       "date": "2020-4-15",
       "confirmed": 133585,
       "deaths": 17169,
-      "recovered": 31470
+      "recovered": 30955
     },
     {
       "date": "2020-4-16",
       "confirmed": 146075,
       "deaths": 17922,
-      "recovered": 33327
+      "recovered": 32812
     },
     {
       "date": "2020-4-17",
       "confirmed": 148084,
       "deaths": 18683,
-      "recovered": 35006
+      "recovered": 34420
     },
     {
       "date": "2020-4-18",
       "confirmed": 148086,
       "deaths": 19325,
-      "recovered": 36587
+      "recovered": 35983
     },
     {
       "date": "2020-4-19",
       "confirmed": 153011,
       "deaths": 19720,
-      "recovered": 37183
+      "recovered": 36578
     },
     {
       "date": "2020-4-20",
       "confirmed": 155393,
       "deaths": 20267,
-      "recovered": 38036
+      "recovered": 37409
     },
     {
       "date": "2020-4-21",
       "confirmed": 158168,
       "deaths": 20798,
-      "recovered": 39819
+      "recovered": 39181
     },
     {
       "date": "2020-4-22",
       "confirmed": 155980,
       "deaths": 21342,
-      "recovered": 41326
+      "recovered": 40657
     },
     {
       "date": "2020-4-23",
       "confirmed": 158303,
       "deaths": 21858,
-      "recovered": 42762
+      "recovered": 42088
     },
     {
       "date": "2020-4-24",
       "confirmed": 159952,
       "deaths": 22248,
-      "recovered": 44271
+      "recovered": 43493
     },
     {
       "date": "2020-4-25",
       "confirmed": 161644,
       "deaths": 22617,
-      "recovered": 45372
+      "recovered": 44594
     },
     {
       "date": "2020-4-26",
       "confirmed": 162220,
       "deaths": 22859,
-      "recovered": 45681
+      "recovered": 44903
     },
     {
       "date": "2020-4-27",
       "confirmed": 165963,
       "deaths": 23296,
-      "recovered": 46293
+      "recovered": 45513
     },
     {
       "date": "2020-4-28",
       "confirmed": 169053,
       "deaths": 23663,
-      "recovered": 47775
+      "recovered": 46886
     },
     {
       "date": "2020-4-29",
       "confirmed": 166543,
       "deaths": 24090,
-      "recovered": 49118
+      "recovered": 48228
     },
     {
       "date": "2020-4-30",
       "confirmed": 167299,
       "deaths": 24379,
-      "recovered": 50380
+      "recovered": 49476
     },
     {
       "date": "2020-5-1",
       "confirmed": 167305,
       "deaths": 24597,
-      "recovered": 51124
+      "recovered": 50212
     }
   ],
   "Gabon": [
